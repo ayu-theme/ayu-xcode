@@ -1,0 +1,20 @@
+{
+  "name": "ayu-xcode",
+  "version": "1.0.0",
+  "description": "Ayu theme for Xcode",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "start": "tsx --watch ./src/build.ts",
+    "build": "tsx ./src/build.ts"
+  },
+  "dependencies": {
+    "ayu": "^9.1.0-beta.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

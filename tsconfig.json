@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "bundler",
+    "module": "ESNext",
+    "target": "ES2022",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "baseUrl": "src",
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+  "exclude": ["node_modules", "dist", "test"]
+}

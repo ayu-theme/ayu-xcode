@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>DVTConsoleDebuggerInputTextColor</key>
+		<string>0.9279270768165588 0.5199925899505615 0.08196946233510971 1</string>
+
+		<key>DVTConsoleDebuggerInputTextFont</key>
+		<string>Iosevka-Semibold - 13.5</string>
+
+		<key>DVTConsoleDebuggerOutputTextColor</key>
+		<string>0.6159334182739258 0.6198769211769104 0.6334260702133179 1</string>
+
+		<key>DVTConsoleDebuggerOutputTextFont</key>
+		<string>Iosevka - 13.5</string>
+
+		<key>DVTConsoleDebuggerPromptTextColor</key>
+		<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+		<key>DVTConsoleDebuggerPromptTextFont</key>
+		<string>Iosevka-Semibold - 13.5</string>
+
+		<key>DVTConsoleExectuableInputTextColor</key>
+		<string>0.9279270768165588 0.5199925899505615 0.08196946233510971 1</string>
+
+		<key>DVTConsoleExectuableInputTextFont</key>
+		<string>Iosevka - 13.5</string>
+
+		<key>DVTConsoleExectuableOutputTextColor</key>
+		<string>0.6159334182739258 0.6198769211769104 0.6334260702133179 1</string>
+
+		<key>DVTConsoleExectuableOutputTextFont</key>
+		<string>Iosevka-Semibold - 13.5</string>
+
+		<key>DVTConsoleTextBackgroundColor</key>
+		<string>0.985159158706665 0.985159158706665 0.985159158706665 1</string>
+
+		<key>DVTConsoleTextInsertionPointColor</key>
+		<string>0.9279270768165588 0.5199925899505615 0.08196946233510971 1</string>
+
+		<key>DVTConsoleTextSelectionColor</key>
+		<string>0.034179799258708954 0.25796547532081604 0.8008098602294922 0.14901960784313725</string>
+
+		<key>DVTFontAndColorVersion</key>
+		<integer>1</integer>
+
+		<key>DVTFontSizeModifier</key>
+		<integer>1</integer>
+
+		<key>DVTMarkupTextBackgroundColor</key>
+		<string>0.96 0.96 0.96 1</string>
+
+		<key>DVTMarkupTextBorderColor</key>
+		<string>0.8832 0.8832 0.8832 1</string>
+
+		<key>DVTMarkupTextCodeFont</key>
+		<string>SFMono-Regular - 11.0</string>
+
+		<key>DVTMarkupTextEmphasisColor</key>
+		<string>0 0 0 1</string>
+
+		<key>DVTMarkupTextEmphasisFont</key>
+		<string>.SFNS-RegularItalic - 12.0</string>
+
+		<key>DVTMarkupTextInlineCodeColor</key>
+		<string>0 0 0 0.7</string>
+
+		<key>DVTMarkupTextLinkColor</key>
+		<string>0.055 0.055 1 1</string>
+
+		<key>DVTMarkupTextLinkFont</key>
+		<string>.SFNS-Regular - 12.0</string>
+
+		<key>DVTMarkupTextNormalColor</key>
+		<string>0 0 0 1</string>
+
+		<key>DVTMarkupTextNormalFont</key>
+		<string>.SFNS-Regular - 12.0</string>
+
+		<key>DVTMarkupTextOtherHeadingColor</key>
+		<string>0 0 0 0.5</string>
+
+		<key>DVTMarkupTextOtherHeadingFont</key>
+		<string>.SFNS-Regular - 16.8</string>
+
+		<key>DVTMarkupTextPrimaryHeadingColor</key>
+		<string>0 0 0 1</string>
+
+		<key>DVTMarkupTextPrimaryHeadingFont</key>
+		<string>.SFNS-Regular - 28.8</string>
+
+		<key>DVTMarkupTextSecondaryHeadingColor</key>
+		<string>0 0 0 1</string>
+
+		<key>DVTMarkupTextSecondaryHeadingFont</key>
+		<string>.SFNS-Regular - 21.6</string>
+
+		<key>DVTMarkupTextStrongColor</key>
+		<string>0 0 0 1</string>
+
+		<key>DVTMarkupTextStrongFont</key>
+		<string>.SFNS-Bold - 12.0</string>
+
+		<key>DVTScrollbarMarkerAnalyzerColor</key>
+		<string>0.403922 0.372549 1 1</string>
+
+		<key>DVTScrollbarMarkerBreakpointColor</key>
+		<string>0.290196 0.290196 0.968627 1</string>
+
+		<key>DVTScrollbarMarkerDiffColor</key>
+		<string>0.22286605834960938 0.458817720413208 0.7545760869979858 1</string>
+
+		<key>DVTScrollbarMarkerDiffConflictColor</key>
+		<string>0.8669795989990234 0.22088363766670227 0.2482229471206665 1</string>
+
+		<key>DVTScrollbarMarkerErrorColor</key>
+		<string>0.8669795989990234 0.22088363766670227 0.2482229471206665 1</string>
+
+		<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+		<string>0.643137 0.509804 1 1</string>
+
+		<key>DVTScrollbarMarkerWarningColor</key>
+		<string>0.8956196308135986 0.5796801447868347 0.031454939395189285 1</string>
+
+		<key>DVTSourceTextBackground</key>
+		<string>0.985159158706665 0.985159158706665 0.985159158706665 1</string>
+
+		<key>DVTSourceTextBlockDimBackgroundColor</key>
+		<string>0.424672 0.424672 0.424672 1</string>
+
+		<key>DVTSourceTextCurrentLineHighlightColor</key>
+		<string>0.43581104278564453 0.48200124502182007 0.5548739433288574 0.10196078431372549</string>
+
+		<key>DVTSourceTextInsertionPointColor</key>
+		<string>0.9279270768165588 0.5199925899505615 0.08196946233510971 1</string>
+
+		<key>DVTSourceTextInvisiblesColor</key>
+		<string>0.3464038074016571 0.41332685947418213 0.4874732494354248 0.12156862745098039</string>
+
+		<key>DVTSourceTextSelectionColor</key>
+		<string>0.034179799258708954 0.25796547532081604 0.8008098602294922 0.14901960784313725</string>
+
+		<key>DVTSourceTextSyntaxColors</key>
+		<dict>
+			<key>xcode.syntax.attribute</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.character</key>
+			<string>0.567816972732544 0.3823421001434326 0.7548668384552002 1</string>
+
+			<key>xcode.syntax.comment</key>
+			<string>0.6159334182739258 0.6198769211769104 0.6334260702133179 1</string>
+
+			<key>xcode.syntax.comment.doc</key>
+			<string>0.9158227443695068 0.34984758496284485 0.3691418468952179 1</string>
+
+			<key>xcode.syntax.comment.doc.keyword</key>
+			<string>0.9652222394943237 0.43882495164871216 0.15222881734371185 1</string>
+
+			<key>xcode.syntax.declaration.other</key>
+			<string>0.8956196308135986 0.5796801447868347 0.031454939395189285 1</string>
+
+			<key>xcode.syntax.declaration.type</key>
+			<string>0.12599246203899384 0.5703579783439636 0.8768478631973267 1</string>
+
+			<key>xcode.syntax.identifier.class</key>
+			<string>0.12599246203899384 0.5703579783439636 0.8768478631973267 1</string>
+
+			<key>xcode.syntax.identifier.class.system</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.identifier.constant</key>
+			<string>0.567816972732544 0.3823421001434326 0.7548668384552002 1</string>
+
+			<key>xcode.syntax.identifier.constant.system</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.identifier.function</key>
+			<string>0.8956196308135986 0.5796801447868347 0.031454939395189285 1</string>
+
+			<key>xcode.syntax.identifier.function.system</key>
+			<string>0.8661163449287415 0.515892505645752 0.21165388822555542 1</string>
+
+			<key>xcode.syntax.identifier.macro</key>
+			<string>0.8661163449287415 0.515892505645752 0.21165388822555542 1</string>
+
+			<key>xcode.syntax.identifier.macro.system</key>
+			<string>0.8661163449287415 0.515892505645752 0.21165388822555542 1</string>
+
+			<key>xcode.syntax.identifier.type</key>
+			<string>0.12599246203899384 0.5703579783439636 0.8768478631973267 1</string>
+
+			<key>xcode.syntax.identifier.type.system</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.identifier.variable</key>
+			<string>0.2893773317337036 0.3069647252559662 0.32575803995132446 1</string>
+
+			<key>xcode.syntax.identifier.variable.system</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.keyword</key>
+			<string>0.9652222394943237 0.43882495164871216 0.15222881734371185 1</string>
+
+			<key>xcode.syntax.mark</key>
+			<string>0.2893773317337036 0.3069647252559662 0.32575803995132446 1</string>
+
+			<key>xcode.syntax.markup.code</key>
+			<string>0.9158227443695068 0.34984758496284485 0.3691418468952179 1</string>
+
+			<key>xcode.syntax.number</key>
+			<string>0.567816972732544 0.3823421001434326 0.7548668384552002 1</string>
+
+			<key>xcode.syntax.plain</key>
+			<string>0.2893773317337036 0.3069647252559662 0.32575803995132446 1</string>
+
+			<key>xcode.syntax.preprocessor</key>
+			<string>0.8661163449287415 0.515892505645752 0.21165388822555542 1</string>
+
+			<key>xcode.syntax.regex</key>
+			<string>0.25254884362220764 0.7078507542610168 0.5295531153678894 1</string>
+
+			<key>xcode.syntax.regex.capturename</key>
+			<string>0.567816972732544 0.3823421001434326 0.7548668384552002 1</string>
+
+			<key>xcode.syntax.regex.charname</key>
+			<string>0.2776328921318054 0.6470922231674194 0.7919285893440247 1</string>
+
+			<key>xcode.syntax.regex.number</key>
+			<string>0.567816972732544 0.3823421001434326 0.7548668384552002 1</string>
+
+			<key>xcode.syntax.regex.other</key>
+			<string>0.25254884362220764 0.7078507542610168 0.5295531153678894 1</string>
+
+			<key>xcode.syntax.string</key>
+			<string>0.4574671685695648 0.6577627062797546 0.017641065642237663 1</string>
+
+			<key>xcode.syntax.url</key>
+			<string>0.4574671685695648 0.6577627062797546 0.017641065642237663 1</string>
+		</dict>
+
+		<key>DVTSourceTextSyntaxFonts</key>
+		<dict>
+			<key>xcode.syntax.attribute</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.character</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.comment</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.comment.doc</key>
+			<string>HelveticaNeue - 13.5</string>
+
+			<key>xcode.syntax.comment.doc.keyword</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.declaration.other</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.declaration.type</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.class</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.class.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.constant</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.constant.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.function</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.function.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.macro</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.macro.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.type</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.type.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.variable</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.identifier.variable.system</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.keyword</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.mark</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.markup.code</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.number</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.plain</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.preprocessor</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.regex</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.regex.capturename</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.regex.charname</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.regex.number</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.regex.other</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.string</key>
+			<string>Iosevka - 13.5</string>
+
+			<key>xcode.syntax.url</key>
+			<string>Iosevka - 13.5</string>
+		</dict>
+	</dict>
+</plist>
